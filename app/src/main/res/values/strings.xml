@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">androidlife reCAPTCHA</string>
+    <string name="feedback">تماس با ما</string>
+    <string name="hint_feedback">نظر خود را بنویسید</string>
+    <string name="btn_send">ارسال</string>
+    <string name="title_form">با ما در تماس باشید</string>
+    <string name="desc_form">پیشنهادی دارید ؟ لطفا آنرا برای ما ارسال کنید</string>
+    <string name="message_feedback_done">تشکر از ارسال نظر شما ! در صورت نیاز با شما تماس میگیریم</string>
+</resources>
